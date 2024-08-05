@@ -70,6 +70,7 @@ This project involves converting an Excel spreadsheet to HTML with Bootstrap sty
 3. **Text Editor/IDE**: VSCode.
 4. **Bootstrap**: For styling the HTML.
 5. **Web Browser**: Chrome, Firefox.
+6. **Chatgpt**: speedup writing and readable documentation.
 
 ## File Structure
 
