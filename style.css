@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+
+th {
+  text-align: center;
+}
+
+td {
+  text-align: right;
+}
+
+th:not(.dark),
+td:not(.dark) {
+  color: green;
+}
+
+thead tr:nth-child(1) th {
+  font-size: 18px;
+}
