@@ -32,30 +32,28 @@ This project involves converting an Excel spreadsheet to HTML with Bootstrap sty
 
 1. Use CSS to apply styles:
 
-   ```html
-   <style>
-     body {
-       font-family: Arial, sans-serif;
-       font-size: 14px;
-     }
+   ```css
+   body {
+     font-family: Arial, sans-serif;
+     font-size: 14px;
+   }
 
-     th {
-       text-align: center;
-     }
+   th {
+     text-align: center;
+   }
 
-     td {
-       text-align: right;
-     }
+   td {
+     text-align: right;
+   }
 
-     th:not(.dark),
-     td:not(.dark) {
-       color: green;
-     }
+   th:not(.dark),
+   td:not(.dark) {
+     color: green;
+   }
 
-     thead tr:nth-child(1) th {
-       font-size: 18px;
-     }
-   </style>
+   thead tr:nth-child(1) th {
+     font-size: 18px;
+   }
    ```
 
 ### 4. Style Headers and Numeric Symbols
